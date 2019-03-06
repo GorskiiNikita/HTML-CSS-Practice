@@ -456,6 +456,11 @@ body {
 }
 
 
+.footer-menu li a:hover{ 
+	text-decoration: underline;
+}
+
+
 
 .footer-menu:last-child{
 	width: 140px;
